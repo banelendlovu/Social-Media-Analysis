@@ -5,10 +5,11 @@ Unlock the potential of social media as a strategic marketing tool with my data 
 ![download](https://github.com/banelendlovu/Social-Media-Analysis/blob/main/dashboard%20image.png)
 
 ## Data Origin:
-Harnessing data from Kaggle, this project extracts valuable insights from social media user behavior, illuminating trends across platforms and demographics.
+Harnessing data from Kaggle, this project extracts valuable insights from social media user behavior, illuminating trends across platforms and demographics. 
+Data: https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media
 
 ## Dashboard Overview:
-Explore an interactive dashboard meticulously crafted to dissect user engagement across Facebook, Instagram, and YouTube. Dive into user segments categorized by location, gender, demography, profession, and interests, facilitating targeted marketing initiatives. 
+Explore an interactive dashboard meticulously crafted on Tableau to dissect user engagement across Facebook, Instagram, and YouTube. Dive into user segments categorized by location, gender, demography, profession, and interests, facilitating targeted marketing initiatives. 
 Here's the dashboard for exploration: https://public.tableau.com/views/SocialMediaAnalysisDashboard_17104525081940/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Components:
