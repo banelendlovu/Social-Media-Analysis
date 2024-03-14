@@ -2,11 +2,14 @@
 
 Unlock the potential of social media as a strategic marketing tool with my data analysis project, offering actionable insights to optimize customer targeting and engagement strategies. Dive into the dynamic world of social media platforms – Facebook, Instagram, and YouTube – and discover how user behavior can shape marketing tactics tailored to diverse demographics.
 
+![download](https://github.com/banelendlovu/Social-Media-Analysis/blob/main/dashboard%20image.png)
+
 ## Data Origin:
 Harnessing data from Kaggle, this project extracts valuable insights from social media user behavior, illuminating trends across platforms and demographics.
 
 ## Dashboard Overview:
-Explore an interactive dashboard meticulously crafted to dissect user engagement across Facebook, Instagram, and YouTube. Dive into user segments categorized by location, gender, demography, profession, and interests, facilitating targeted marketing initiatives.
+Explore an interactive dashboard meticulously crafted to dissect user engagement across Facebook, Instagram, and YouTube. Dive into user segments categorized by location, gender, demography, profession, and interests, facilitating targeted marketing initiatives. 
+Here's the dashboard for exploration: https://public.tableau.com/views/SocialMediaAnalysisDashboard_17104525081940/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Components:
 1. Platforms: Facebook, Instagram, and YouTube
